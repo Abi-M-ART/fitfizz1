@@ -1,0 +1,9 @@
+
+{
+  "name": "FitFizz - Health & Weight Loss Companion",
+  "description": "A comprehensive health application featuring a BMI calculator, AI chatbot, and medical report analysis for a healthier lifestyle.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
